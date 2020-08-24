@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 1px solid black;
+  margin-top:48px;
+  margin-left:50px;
+}
+#addButton{
+  position:absolute; 
+  margin-left:70px;   
+  bottom:480px;
+  border: 1px solid black;
+}
+#feedButton{
+  position:absolute; 
+  margin-left:70px;   
+  bottom:450px;
+  border: 1px solid black;
+}
+
